@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ontorale
+
+This log tracks the cryptographic history and versioning for the song **Ontorale** (ontorale).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T00:03:40.928955 | `v1` | `31bb89bb8523fdc553bdfb2ec3186fa5771345da3001029c6638c28ef24e14d9` | `85c3e35c84398338ef881959b7e279912f82ad0613a33130a8235bd08d0bf268` | `2026-05-28_ontorale-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ontorale/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ontorale](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ontorale/) |
+| **Get License** | [Obtain a Music License for Ontorale](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ontorale/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `31bb89bb8523fdc553bdfb2ec3186fa5771345da3001029c6638c28ef24e14d9` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
